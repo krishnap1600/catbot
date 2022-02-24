@@ -29,10 +29,10 @@ def post_pics():
         time.sleep(3600)
 
 # credentials for the twitter cat bot
-api_key = 'rErzHMxvVBULzbnOsDg1ZlbOx'
-api_key_secret = 'JOhy3l5QvczteWQAboxzeA57B0oV2fpxxRr2Do4A8xwNINEIJt'
-access_token = '1426382447789416449-7188AtNhvXbdYv10oJgeb2RN1Wo3Uv'
-access_token_secret = 'hgn0oKRFLjpLovrCxDKVtJvywgvRawjiRltzMqii255qs'
+api_key = '--snip--'
+api_key_secret = '--snip--'
+access_token = '--snip--'
+access_token_secret = '--snip--'
 
 # login to twitter cat bot api
 auth = tweepy.OAuthHandler(api_key, api_key_secret)
